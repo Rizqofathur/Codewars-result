@@ -8,9 +8,3 @@ function reverse(string) {
   let reversed = temp.join(' ');
   return reversed;
 }
-
-function display(string) {
-  console.log(reverse(string));
-}
-
-display('fathur Ganteng');
